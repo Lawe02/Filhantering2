@@ -1,0 +1,16 @@
+C:\Users\Lawe Zangena\Filhant1\bin\Debug\net5.0\Filhant1.exe
+C:\Users\Lawe Zangena\Filhant1\bin\Debug\net5.0\Filhant1.deps.json
+C:\Users\Lawe Zangena\Filhant1\bin\Debug\net5.0\Filhant1.runtimeconfig.json
+C:\Users\Lawe Zangena\Filhant1\bin\Debug\net5.0\Filhant1.runtimeconfig.dev.json
+C:\Users\Lawe Zangena\Filhant1\bin\Debug\net5.0\Filhant1.dll
+C:\Users\Lawe Zangena\Filhant1\bin\Debug\net5.0\ref\Filhant1.dll
+C:\Users\Lawe Zangena\Filhant1\bin\Debug\net5.0\Filhant1.pdb
+C:\Users\Lawe Zangena\Filhant1\obj\Debug\net5.0\Filhant1.csproj.AssemblyReference.cache
+C:\Users\Lawe Zangena\Filhant1\obj\Debug\net5.0\Filhant1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lawe Zangena\Filhant1\obj\Debug\net5.0\Filhant1.AssemblyInfoInputs.cache
+C:\Users\Lawe Zangena\Filhant1\obj\Debug\net5.0\Filhant1.AssemblyInfo.cs
+C:\Users\Lawe Zangena\Filhant1\obj\Debug\net5.0\Filhant1.csproj.CoreCompileInputs.cache
+C:\Users\Lawe Zangena\Filhant1\obj\Debug\net5.0\Filhant1.dll
+C:\Users\Lawe Zangena\Filhant1\obj\Debug\net5.0\ref\Filhant1.dll
+C:\Users\Lawe Zangena\Filhant1\obj\Debug\net5.0\Filhant1.pdb
+C:\Users\Lawe Zangena\Filhant1\obj\Debug\net5.0\Filhant1.genruntimeconfig.cache
